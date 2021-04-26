@@ -162,6 +162,11 @@ ul {
     font-size: 20px;
     margin-top: 9px;
 }
+ .icons i {
+    color: #fff;
+    font-size: 20px;
+    margin-top: 9px;
+}
 .items .icons {
     position: absolute;
     width: 90px;
